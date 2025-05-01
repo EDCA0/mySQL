@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS bills (
     FOREIGN KEY (client_id) references clients(client_id)
 );
 
-INSERT INTO bills(client_id, total) VALUES (10, 15.00); //> ERROR 1452 (23000): Cannot add or update 
+INSERT INTO bills(client_id, total) VALUES (10, 15.00); //> ERROR 1452 (23000): Cannot add or UPDATE 
 a child row: a FOREIGN key constraint fails (`Prueba_Clase_Platzi1`.`bills`, CONSTRAINT `bills_ibfk_1` F
 OREIGN KEY (`client_id`) REFERENCES `clients` (`client_id`))
 

@@ -97,7 +97,7 @@ insert ignore into products(sku,name,slug,description,price) values
 ('8436262140338', 'Rustic Aluminum Chair', 'rustic-aluminum-chair', 'Necessitatibus nemo aut quis dolor. Ut provident ullam enim soluta fugit exercitationem. Debitis exercitationem voluptatum eum ducimus delectus molestiae accusantium.', '4398.15'),
 ('3887488295459', 'Ergonomic Iron Clock', 'ergonomic-iron-clock', 'Eos sed eum et similique. Minima quisquam nam odit suscipit libero autem unde.', '2500.99'),
 ('5440484387290', 'Small Leather Watch', 'small-leather-watch', 'Pariatur quidem doloremque consequatur. Et quam velit voluptatum ipsam. Odio dolores aut atque veniam error nemo.', '3862.75'),
-('2658020302123', 'Small Copper Computer', 'small-copper-computer', 'Deserunt est neque aliquam sed vero. Temporibus dolor aut in a dolor. Distinctio sint vel a assumenda in aut iure.', '4404.47'),
+('2658020302123', 'Small Copper Computer', 'small-copper-computer', 'Deserunt est neque aliquam sed vero. Temporibus dolor aut in a dolor. Distinctio sint vel a assumenda in aut iure.', '4404.47');
 ('5180792400068', 'Awesome Granite Gloves', 'awesome-granite-gloves', 'Minima qui atque ut qui. Dolor quo illo optio facere eligendi. Alias vel quod temporibus ad ut officiis.', '2321.75'),
 ('8471958561677', 'Ergonomic Wool Pants', 'ergonomic-wool-pants', 'Aut aliquid rerum maxime repudiandae soluta dolorem nulla. Blanditiis facilis officiis quo et.', '1451.86'),
 ('8341127141125', 'Intelligent Wooden Watch', 'intelligent-wooden-watch', 'Molestiae et voluptate iusto ut esse expedita. Qui dolores et reprehenderit cupiditate perferendis. Enim harum deserunt aliquam et architecto.', '4080'),
